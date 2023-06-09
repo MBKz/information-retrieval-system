@@ -1,0 +1,12 @@
+{
+    "textHandler" : {
+        "ip" : "http://127.0.0.1",
+        "port" : "8000",
+        "endPoint" : "textHandler"
+    },
+    "search" : {
+        "ip" : "http://127.0.0.1",
+        "port" : "8001",
+        "endPoint" : "search"
+    }
+}

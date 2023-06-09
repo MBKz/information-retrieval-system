@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "argsort",
+        "fastapi",
+        "kneighbors",
+        "lemmatize",
+        "Lemmatizer",
+        "limitizer",
+        "nltk",
+        "pydantic",
+        "qrels",
+        "sklearn",
+        "stopwords",
+        "vectorizer",
+        "wikir"
+    ]
+}
